@@ -1,0 +1,89 @@
+12:13:23.270 [main] Main.java INFO  FileLogLogger - Creating LoginWindow
+12:13:23.555 [main] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+12:13:23.557 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+12:13:32.794 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Creating RegisterWindow
+12:13:32.802 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Created RegisterWindow
+12:13:32.804 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Running RegisterWindow main()
+12:13:54.122 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Attempting To Register User
+12:13:54.233 [AWT-EventQueue-0] DB.java FATAL FileLogLogger - DATABSE ERROR com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+12:14:22.964 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Attempting To Register User
+12:14:23.326 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Adding Customer Details
+12:14:23.326 [AWT-EventQueue-0] ReturnHash.java INFO  FileLogLogger - Hashed UserAttempt
+12:14:23.336 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Adding Customer Password
+12:14:23.338 [AWT-EventQueue-0] DB.java WARN  FileLogLogger - User Created!
+12:14:23.348 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Creating LoginWindow
+12:14:23.351 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+12:14:23.353 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+12:14:32.045 [AWT-EventQueue-0] ReturnHash.java INFO  FileLogLogger - Hashed UserAttempt
+12:14:32.046 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Authorizing Login Attempt
+12:14:32.046 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Connecting To DB
+12:14:32.067 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Authorization Successful!
+12:22:27.121 [main] Main.java INFO  FileLogLogger - Creating LoginWindow
+12:22:27.459 [main] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+12:22:27.467 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+12:22:29.955 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Creating RegisterWindow
+12:22:29.974 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Created RegisterWindow
+12:22:29.987 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Running RegisterWindow main()
+12:22:32.833 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Creating LoginWindow
+12:22:32.836 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+12:22:32.838 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+12:24:09.857 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Creating RegisterWindow
+12:24:09.861 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Created RegisterWindow
+12:24:09.864 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Running RegisterWindow main()
+12:24:10.855 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Creating LoginWindow
+12:24:10.860 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+12:24:10.863 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+12:24:13.577 [AWT-EventQueue-0] ReturnHash.java INFO  FileLogLogger - Hashed UserAttempt
+12:24:13.577 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Authorizing Login Attempt
+12:24:13.577 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Connecting To DB
+12:24:14.103 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Authorization Unsuccessful!
+12:24:14.104 [AWT-EventQueue-0] ReturnHash.java INFO  FileLogLogger - Hashed UserAttempt
+12:24:14.104 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Authorizing Login Attempt
+12:24:14.104 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Connecting To DB
+12:24:14.127 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Authorization Unsuccessful!
+12:24:14.209 [AWT-EventQueue-0] ReturnHash.java INFO  FileLogLogger - Hashed UserAttempt
+12:24:14.210 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Authorizing Login Attempt
+12:24:14.210 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Connecting To DB
+12:24:14.231 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Authorization Unsuccessful!
+12:24:39.109 [main] Main.java INFO  FileLogLogger - Creating LoginWindow
+12:24:39.392 [main] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+12:24:39.394 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+12:37:31.772 [main] Main.java INFO  FileLogLogger - Creating LoginWindow
+12:37:32.087 [main] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+12:37:32.088 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+12:37:33.326 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Creating RegisterWindow
+12:37:33.336 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Created RegisterWindow
+12:37:33.338 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Running RegisterWindow main()
+12:47:20.764 [main] Main.java INFO  FileLogLogger - Creating LoginWindow
+12:47:21.039 [main] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+12:47:21.042 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+12:47:27.209 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Creating RegisterWindow
+12:47:27.216 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Created RegisterWindow
+12:47:27.219 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Running RegisterWindow main()
+12:47:29.681 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Creating LoginWindow
+12:47:29.684 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+12:47:29.685 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+20:26:46.895 [main] Main.java INFO  FileLogLogger - Creating LoginWindow
+20:26:47.341 [main] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+20:26:47.351 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+20:27:03.448 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Creating RegisterWindow
+20:27:03.467 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Created RegisterWindow
+20:27:03.476 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Running RegisterWindow main()
+20:27:53.714 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Passwords Not Matching
+20:28:02.011 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Attempting To Register User
+20:28:02.535 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Adding Customer Details
+20:28:02.536 [AWT-EventQueue-0] ReturnHash.java INFO  FileLogLogger - Hashed UserAttempt
+20:28:02.543 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Adding Customer Password
+20:28:02.546 [AWT-EventQueue-0] DB.java WARN  FileLogLogger - User Created!
+20:28:02.558 [AWT-EventQueue-0] registerwindow.java INFO  FileLogLogger - Creating LoginWindow
+20:28:02.561 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+20:28:02.563 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()
+20:28:16.789 [AWT-EventQueue-0] ReturnHash.java INFO  FileLogLogger - Hashed UserAttempt
+20:28:16.789 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Authorizing Login Attempt
+20:28:16.789 [AWT-EventQueue-0] DB.java INFO  FileLogLogger - Connecting To DB
+20:28:16.811 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Authorization Successful!
+16:01:23.314 [main] Main.java INFO  FileLogLogger - Creating LoginWindow
+16:01:23.820 [main] loginwindow.java INFO  FileLogLogger - Created LoginWindow
+16:01:23.829 [AWT-EventQueue-0] loginwindow.java INFO  FileLogLogger - Running LoginWindow main()

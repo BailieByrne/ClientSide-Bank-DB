@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+  <Appenders>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %F %-5level %logger{36} - %msg%n"/>
+    </Console>
+    <File name="FileLog" fileName="app.log">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %F %-5level %logger{36} - %msg%n"/>
+    </File>
+  </Appenders>
+  <Loggers>
+    <Root level="error">
+      <AppenderRef ref="Console"/>
+    </Root>
+    <Logger name="FileLogLogger" level="info" additivity="false">
+      <AppenderRef ref="FileLog"/>
+      <AppenderRef ref="Console" level="error"/>
+    </Logger>
+  </Loggers>
+</Configuration>
